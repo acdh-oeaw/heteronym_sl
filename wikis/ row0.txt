@@ -1,0 +1,6 @@
+		pos : noun
+		plural : ['rows']
+		senses : [' An act or instance of rowing.\n', ' {{lb|en|weightlifting}} An [[exercise]] performed with a [[pull]]ing motion of the arms towards the back.\n']
+		examples : [(' An act or instance of rowing.\n', "{{ux|en|I went for an early-morning '''row'''.}}\n")]
+		pronunciation : [' {{a|RP}} {{enPR|rō}}, {{IPA|en|/ɹəʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ɹoʊ/}}\n']
+	 [' {{a|RP}} {{enPR|rō}}, {{IPA|en|/ɹəʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ɹoʊ/}}\n']

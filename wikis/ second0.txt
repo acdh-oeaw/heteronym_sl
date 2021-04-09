@@ -1,0 +1,6 @@
+		pos : noun
+		plural : ['seconds']
+		senses : [' One-[[sixtieth]] of a [[minute]]; the [[SI]] unit of [[time]], defined as the duration of 9,192,631,770 periods of [[radiation]] corresponding to the transition between two hyperfine levels of [[caesium]]-133 in a ground state at a temperature of [[absolute zero]] and at rest.\n', ' A unit of [[angle]] equal to one-sixtieth of a [[minute]] of arc or one part in 3600 of a [[degree]].\n', ' {{lb|en|informal}} A short, [[indeterminate]] amount of time.\n']
+		examples : [(' {{lb|en|informal}} A short, [[indeterminate]] amount of time.\n', "{{ux|en|I'll be there in a '''second'''.}}\n")]
+		pronunciation : [' {{enPR|sĕʹkənd}}, {{IPA|en|/ˈsɛk.(ə)nd/}}\n', ' {{a|US}} {{IPA|en|/ˈsɛk.(ə)nd/|/ˈsɛk.(ə)nt/}}\n', ' {{a|US}} {{IPA|en|/ˈsɛk.(ə)nd/|/ˈsɛk.(ə)nt/}}\n', ' {{a|US}} {{IPA|en|/ˈsɛk.(ə)nd/|/ˈsɛk.(ə)nt/}}\n']
+	 [' {{enPR|sĕʹkənd}}, {{IPA|en|/ˈsɛk.(ə)nd/}}\n', ' {{a|US}} {{IPA|en|/ˈsɛk.(ə)nd/|/ˈsɛk.(ə)nt/}}\n', ' {{a|US}} {{IPA|en|/ˈsɛk.(ə)nd/|/ˈsɛk.(ə)nt/}}\n', ' {{a|US}} {{IPA|en|/ˈsɛk.(ə)nd/|/ˈsɛk.(ə)nt/}}\n']

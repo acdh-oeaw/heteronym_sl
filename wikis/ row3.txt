@@ -1,0 +1,5 @@
+		pos : verb
+		senses : [' {{lb|en|transitive|or|intransitive|nautical}} To [[propel]] (a [[boat]] or other [[craft]]) over water using [[oar]]s.\n', ' {{lb|en|transitive}} To transport in a boat propelled with oars.\n', ' {{lb|en|intransitive}} To be moved by oars.\n']
+		examples : [(' {{lb|en|transitive}} To transport in a boat propelled with oars.\n', "''to '''row''' the captain ashore in his barge''\n"), (' {{lb|en|intransitive}} To be moved by oars.\n', "''The boat '''rows''' easily.''\n")]
+		pronunciation : [' {{a|RP}} {{enPR|rō}}, {{IPA|en|/ɹəʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ɹoʊ/}}\n']
+	 [' {{a|RP}} {{enPR|rō}}, {{IPA|en|/ɹəʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ɹoʊ/}}\n']

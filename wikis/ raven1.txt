@@ -1,0 +1,5 @@
+		pos : adjective
+		senses : [' Of the color of the raven; [[jet-black]]\n']
+		examples : [(' Of the color of the raven; [[jet-black]]\n', "''raven curls''\n"), (' Of the color of the raven; [[jet-black]]\n', "''raven darkness''\n"), (' Of the color of the raven; [[jet-black]]\n', "''She was a tall, sophisticated, raven-haired beauty.''\n")]
+		pronunciation : [' {{enPR|rāʹvən}}, {{IPA|en|/ˈɹeɪvən/}}\n']
+	 [' {{enPR|rāʹvən}}, {{IPA|en|/ˈɹeɪvən/}}\n']

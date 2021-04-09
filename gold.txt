@@ -1,0 +1,405 @@
+bass.n.07: [' {{enPR|bās}}, {{IPA|en|/beɪs/}}\n']
+
+
+bass.n.06: [' {{enPR|bās}}, {{IPA|en|/beɪs/}}\n']
+
+
+sea_bass.n.01: [' {{enPR|băs}}, {{IPA|en|/bæs/}}\n']
+
+
+bass.n.01: [' {{enPR|bās}}, {{IPA|en|/beɪs/}}\n']
+
+
+freshwater_bass.n.01: [' {{enPR|băs}}, {{IPA|en|/bæs/}}\n']
+
+
+bass.n.02: [' {{enPR|bās}}, {{IPA|en|/beɪs/}}\n']
+
+
+bass.n.03: [' {{enPR|bās}}, {{IPA|en|/beɪs/}}\n']
+
+
+bass.s.01: [' {{enPR|bās}}, {{IPA|en|/beɪs/}}\n']
+
+
+bass.n.08: [' {{enPR|băs}}, {{IPA|en|/bæs/}}\n']
+
+
+bow.n.09: [' {{a|RP}} {{enPR|bō}}, {{IPA|en|/bəʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n']
+
+
+bow.n.08: [' {{a|RP}} {{enPR|bō}}, {{IPA|en|/bəʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n']
+
+
+bow.n.05: [' {{a|RP}} {{enPR|bō}}, {{IPA|en|/bəʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n']
+
+
+bow.v.05: [' {{a|RP}} {{enPR|bō}}, {{IPA|en|/bəʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n']
+
+
+bow.n.04: [' {{a|RP}} {{enPR|bō}}, {{IPA|en|/bəʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n']
+
+
+bow.n.06: [' {{enPR|bou}}, {{IPA|en|/baʊ/}}\n']
+
+bow.n.07: [' {{enPR|bou}}, {{IPA|en|/baʊ/}}\n']
+
+
+bow.n.03: [' {{a|RP}} {{enPR|bō}}, {{IPA|en|/bəʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n']
+
+
+bow.v.03: [' {{enPR|bou}}, {{IPA|en|/baʊ/}}\n']
+
+
+bow.n.02: [' {{a|RP}} {{enPR|bō}}, {{IPA|en|/bəʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n']
+
+
+bow.v.01: [' {{enPR|bou}}, {{IPA|en|/baʊ/}}\n']
+
+submit.v.06: [' {{enPR|bou}}, {{IPA|en|/baʊ/}}\n']
+
+bow.n.01: [' {{a|RP}} {{enPR|bō}}, {{IPA|en|/bəʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n', ' {{a|US}} {{enPR|bō}}, {{IPA|en|/boʊ/}}\n']
+
+
+crouch.v.01: [' {{enPR|bou}}, {{IPA|en|/baʊ/}}\n']
+
+
+abandon.v.05: [' {{a|RP}} {{IPA|en|/dɪˈzɜːt/}}\n', ' {{a|GA}} {{IPA|en|/dɪˈzɝt/|/dəˈzɝt/}}\n']
+
+
+desert.v.03: [' {{a|RP}} {{IPA|en|/dɪˈzɜːt/}}\n', ' {{a|GA}} {{IPA|en|/dɪˈzɝt/|/dəˈzɝt/}}\n']
+
+
+desert.n.01: [' {{a|RP}} {{IPA|en|/ˈdɛzət/}}\n', " {{a|GA}} {{enPR|dĕ'zə(r)t}}, {{IPA|en|/ˈdɛzɚt/}}\n"]
+
+
+defect.v.01: [' {{a|RP}} {{IPA|en|/dɪˈzɜːt/}}\n', ' {{a|GA}} {{IPA|en|/dɪˈzɝt/|/dəˈzɝt/}}\n']
+
+
+firm.n.01: [' {{enPR|hous}}, {{IPA|en|/haʊs/}}\n', ' {{a|Canada}} {{IPA|en|/hʌʊs/}}\n']
+
+
+theater.n.01: [' {{enPR|hous}}, {{IPA|en|/haʊs/}}\n', ' {{a|Canada}} {{IPA|en|/hʌʊs/}}\n']
+
+
+house.n.05: [' {{enPR|hous}}, {{IPA|en|/haʊs/}}\n', ' {{a|Canada}} {{IPA|en|/hʌʊs/}}\n']
+
+
+house.n.04: [' {{enPR|hous}}, {{IPA|en|/haʊs/}}\n', ' {{a|Canada}} {{IPA|en|/hʌʊs/}}\n']
+
+
+house.n.06: [' {{enPR|hous}}, {{IPA|en|/haʊs/}}\n', ' {{a|Canada}} {{IPA|en|/hʌʊs/}}\n']
+
+
+house.n.12: [' {{enPR|hous}}, {{IPA|en|/haʊs/}}\n', ' {{a|Canada}} {{IPA|en|/hʌʊs/}}\n'
+
+
+house.n.07: [' {{enPR|hous}}, {{IPA|en|/haʊs/}}\n', ' {{a|Canada}} {{IPA|en|/hʌʊs/}}\n']
+
+
+family.n.01: [' {{enPR|hous}}, {{IPA|en|/haʊs/}}\n', ' {{a|Canada}} {{IPA|en|/hʌʊs/}}\n']
+
+
+house.v.02: [' {{enPR|houz}}, {{IPA|en|/haʊz/}}\n']
+
+
+house.n.03: [' {{enPR|hous}}, {{IPA|en|/haʊs/}}\n', ' {{a|Canada}} {{IPA|en|/hʌʊs/}}\n']
+
+
+house.v.01: [' {{enPR|hous}}, {{IPA|en|/haʊs/}}\n', ' {{a|Canada}} {{IPA|en|/hʌʊs/}}\n']
+
+
+house.n.01: [' {{enPR|hous}}, {{IPA|en|/haʊs/}}\n', ' {{a|Canada}} {{IPA|en|/hʌʊs/}}\n'
+
+
+house.n.09: [' {{enPR|hous}}, {{IPA|en|/haʊs/}}\n', ' {{a|Canada}} {{IPA|en|/hʌʊs/}}\n']
+
+
+sign_of_the_zodiac.n.01: [' {{enPR|hous}}, {{IPA|en|/haʊs/}}\n', ' {{a|Canada}} {{IPA|en|/hʌʊs/}}\n']
+
+
+moderate.v.01: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n’]
+
+
+tip.n.03: [' {{enPR|lĕd}}, {{IPA|en|/lɛd/}}\n']
+
+
+lead.n.15: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n’]
+
+
+lead.n.01: [' {{enPR|lĕd}}, {{IPA|en|/lɛd/}}\n']
+
+
+jumper_cable.n.01: [' {{enPR|lĕd}}, {{IPA|en|/lɛd/}}\n']
+
+
+lead.v.01: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+lead.n.14: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+leash.n.01: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+lead.n.02: [' {{enPR|lĕd}}, {{IPA|en|/lɛd/}}\n']
+
+
+lead.v.03: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+lead.n.17: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+lead.n.03: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+run.v.03: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+lead.n.07: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+contribute.v.03: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n’]
+
+
+precede.v.04: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+lead.n.06: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n’]
+
+
+lead.n.04: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+lead.v.05: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+lead.v.04: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+lead.n.05: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+lead.n.11: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n’]
+
+
+lead.v.08: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+lead.n.09: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+go.v.25: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+spark_advance.n.01: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+run.v.23: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n’]
+
+
+star.n.04: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+head.v.02: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+conduct.v.02: [' {{a|RP}} {{enPR|lēd}}, {{IPA|en|/liːd/}}\n', ' {{a|GA}} {{IPA|en|/lid/}}\n']
+
+
+leave.v.07: [' {{enPR|lĕd}}, {{IPA|en|/lɛd/}}\n']
+
+
+be.v.11: [' {{a|RP}} {{enPR|līv}}, {{IPA|en|/laɪv/}}\n', ' {{a|GenAm}} {{IPA|en|/laɪv/}}\n']
+
+
+hot.s.20: [' {{a|RP}} {{enPR|līv}}, {{IPA|en|/laɪv/}}\n', ' {{a|GenAm}} {{IPA|en|/laɪv/}}\n']
+
+
+alive.a.01: [' {{a|RP}} {{enPR|līv}}, {{IPA|en|/laɪv/}}\n', ' {{a|GenAm}} {{IPA|en|/laɪv/}}\n']
+
+
+live.a.02: [' {{a|RP}} {{enPR|līv}}, {{IPA|en|/laɪv/}}\n', ' {{a|GenAm}} {{IPA|en|/laɪv/}}\n']
+
+
+know.v.05: [' {{a|RP}} {{enPR|līv}}, {{IPA|en|/laɪv/}}\n', ' {{a|GenAm}} {{IPA|en|/laɪv/}}\n']
+
+
+live.a.01: [' {{a|RP}} {{enPR|līv}}, {{IPA|en|/laɪv/}}\n', ' {{a|GenAm}} {{IPA|en|/laɪv/}}\n']
+
+
+live.s.07: [' {{a|RP}} {{enPR|līv}}, {{IPA|en|/laɪv/}}\n', ' {{a|GenAm}} {{IPA|en|/laɪv/}}\n’]
+
+
+survive.v.01: [' {{a|RP}} {{enPR|lĭv}}, {{IPA|en|/lɪv/}}\n', ' {{a|GenAm|}}, {{IPA|en|/lɪv/}}\n']
+
+
+alive.s.07: [' {{a|RP}} {{enPR|līv}}, {{IPA|en|/laɪv/}}\n', ' {{a|GenAm}} {{IPA|en|/laɪv/}}\n’]
+
+
+live.s.05: [' {{a|RP}} {{enPR|līv}}, {{IPA|en|/laɪv/}}\n', ' {{a|GenAm}} {{IPA|en|/laɪv/}}\n']
+
+
+live.s.04: [' {{a|RP}} {{enPR|līv}}, {{IPA|en|/laɪv/}}\n', ' {{a|GenAm}} {{IPA|en|/laɪv/}}\n']
+
+
+live.v.02: [' {{a|RP}} {{enPR|lĭv}}, {{IPA|en|/lɪv/}}\n', ' {{a|GenAm|}}, {{IPA|en|/lɪv/}}\n']
+
+
+bouncy.s.01: [' {{a|RP}} {{enPR|līv}}, {{IPA|en|/laɪv/}}\n', ' {{a|GenAm}} {{IPA|en|/laɪv/}}\n']
+
+
+exist.v.02: [' {{a|RP}} {{enPR|lĭv}}, {{IPA|en|/lɪv/}}\n', ' {{a|GenAm|}}, {{IPA|en|/lɪv/}}\n']
+
+
+live.s.09: [' {{a|RP}} {{enPR|līv}}, {{IPA|en|/laɪv/}}\n', ' {{a|GenAm}} {{IPA|en|/laɪv/}}\n']
+
+
+populate.v.01: [' {{a|RP}} {{enPR|lĭv}}, {{IPA|en|/lɪv/}}\n', ' {{a|GenAm|}}, {{IPA|en|/lɪv/}}\n']
+
+
+live.s.08: [' {{a|RP}} {{enPR|lĭv}}, {{IPA|en|/lɪv/}}\n', ' {{a|GenAm|}}, {{IPA|en|/lɪv/}}\n']
+
+
+live.v.07: [' {{a|RP}} {{enPR|lĭv}}, {{IPA|en|/lɪv/}}\n', ' {{a|GenAm|}}, {{IPA|en|/lɪv/}}\n']
+
+
+live.r.01: [' {{a|RP}} {{enPR|līv}}, {{IPA|en|/laɪv/}}\n', ' {{a|GenAm}} {{IPA|en|/laɪv/}}\n']
+
+
+devour.v.04: [‘{{enPR|răvʹən}}, {{IPA|en|/ˈɹævən/}}’]
+
+
+raven.n.01: [' {{enPR|rāʹvən}}, {{IPA|en|/ˈɹeɪvən/}}\n']
+
+
+raven.v.01: [‘{{enPR|răvʹən}}, {{IPA|en|/ˈɹævən/}}’]
+
+
+raven.v.02: [‘{{enPR|răvʹən}}, {{IPA|en|/ˈɹævən/}}’]
+
+
+raven.v.04: [‘{{enPR|răvʹən}}, {{IPA|en|/ˈɹævən/}}’]
+
+
+grow.v.07: [' {{a|RP}} {{enPR|rō}}, {{IPA|en|/ˈɹəʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n']
+
+
+course.n.08: [' {{a|RP}} {{enPR|rō}}, {{IPA|en|/ˈɹəʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n']
+
+
+grow.v.08: [' {{a|RP}} {{enPR|rō}}, {{IPA|en|/ˈɹəʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n']
+
+
+row.n.06: [' {{a|RP}} {{enPR|rō}}, {{IPA|en|/ˈɹəʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n']
+
+
+row.n.05: [' {{a|RP}} {{enPR|rō}}, {{IPA|en|/ˈɹəʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n']
+
+
+quarrel.n.01: [‘{{enPR|rou}}, {{IPA|en|/ɹaʊ/}}’]
+
+
+row.n.01: [' {{a|RP}} {{enPR|rō}}, {{IPA|en|/ˈɹəʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n']
+
+
+row.v.01: [' {{a|RP}} {{enPR|rō}}, {{IPA|en|/ˈɹəʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n']
+
+
+rowing.n.01: [' {{a|RP}} {{enPR|rō}}, {{IPA|en|/ɹəʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ɹoʊ/}}\n']
+
+
+row.n.03: [' {{a|RP}} {{enPR|rō}}, {{IPA|en|/ˈɹəʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n', ' {{a|US}} {{enPR|rō}}, {{IPA|en|/ˈɹoʊ/}}\n']
+
+
+scent.v.02: [' {{enPR|wĭnd}}, {{IPA|en|/ˈwɪnd/}}\n', ' {{a|archaic}} {{enPR|wīnd}}, {{IPA|en|/ˈwaɪnd/}}\n']
+
+
+wind.v.05: [' {{enPR|wīnd}}, {{IPA|en|/waɪnd/}}\n']
+
+
+wind.n.04: [' {{enPR|wĭnd}}, {{IPA|en|/ˈwɪnd/}}\n', ' {{a|archaic}} {{enPR|wīnd}}, {{IPA|en|/ˈwaɪnd/}}\n']
+
+
+wind_instrument.n.01: [' {{enPR|wĭnd}}, {{IPA|en|/ˈwɪnd/}}\n', ' {{a|archaic}} {{enPR|wīnd}}, {{IPA|en|/ˈwaɪnd/}}\n']
+
+
+wind.n.01: [' {{enPR|wĭnd}}, {{IPA|en|/ˈwɪnd/}}\n', ' {{a|archaic}} {{enPR|wīnd}}, {{IPA|en|/ˈwaɪnd/}}\n']
+
+
+wind.n.03: [' {{enPR|wĭnd}}, {{IPA|en|/ˈwɪnd/}}\n', ' {{a|archaic}} {{enPR|wīnd}}, {{IPA|en|/ˈwaɪnd/}}\n']
+
+
+wind.v.02: [' {{enPR|wīnd}}, {{IPA|en|/waɪnd/}}\n']
+
+
+wind.v.03: [' {{enPR|wīnd}}, {{IPA|en|/waɪnd/}}\n']
+
+
+wind.n.02: [' {{enPR|wĭnd}}, {{IPA|en|/ˈwɪnd/}}\n', ' {{a|archaic}} {{enPR|wīnd}}, {{IPA|en|/ˈwaɪnd/}}\n']
+
+
+tip.n.03: [' {{enPR|wĭnd}}, {{IPA|en|/ˈwɪnd/}}\n', ' {{a|archaic}} {{enPR|wīnd}}, {{IPA|en|/ˈwaɪnd/}}\n']
+
+
+hoist.v.01: [' {{enPR|wīnd}}, {{IPA|en|/waɪnd/}}\n']
+
+
+wind.n.08: [' {{enPR|wīnd}}, {{IPA|en|/waɪnd/}}\n']
+
+
+wreathe.v.03: [' {{enPR|wīnd}}, {{IPA|en|/waɪnd/}}\n']
+
+
+weave.v.04: [' {{enPR|wīnd}}, {{IPA|en|/waɪnd/}}\n']
+
+
+fart.n.01: [' {{enPR|wĭnd}}, {{IPA|en|/ˈwɪnd/}}\n', ' {{a|archaic}} {{enPR|wīnd}}, {{IPA|en|/ˈwaɪnd/}}\n']
+
+
+submit.v.01: [‘ {{enPR|səb-jĕktʹ}}, {{IPA|en|/səbˈdʒɛkt/|/sʌbˈdʒɛkt/}}’]
+
+
+subject.v.02: [' {{enPR|sŭbʹjĕkt}}, {{IPA|en|/ˈsʌb.dʒɛkt/}}\n', ' {{lb|en|also}}  {{a|RP}} {{IPA|en|/ˈsʌb.dʒɪkt/}}\n']
+
+
+capable.s.02: [' {{enPR|sŭbʹjĕkt}}, {{IPA|en|/ˈsʌb.dʒɛkt/}}\n', ' {{lb|en|also}}  {{a|RP}} {{IPA|en|/ˈsʌb.dʒɪkt/}}\n']
+
+
+subject.n.02: [' {{enPR|sŭbʹjĕkt}}, {{IPA|en|/ˈsʌb.dʒɛkt/}}\n', ' {{lb|en|also}}  {{a|RP}} {{IPA|en|/ˈsʌb.dʒɪkt/}}\n']
+
+
+subject.v.01: [' {{enPR|səb-jĕktʹ}}, {{IPA|en|/səbˈdʒɛkt/|/sʌbˈdʒɛkt/}}']
+
+
+subject.n.01: [' {{enPR|sŭbʹjĕkt}}, {{IPA|en|/ˈsʌb.dʒɛkt/}}\n', ' {{lb|en|also}}  {{a|RP}} {{IPA|en|/ˈsʌb.dʒɪkt/}}\n']
+
+
+subject.n.05: [' {{enPR|sŭbʹjĕkt}}, {{IPA|en|/ˈsʌb.dʒɛkt/}}\n', ' {{a|RP}} {{IPA|en|/ˈsʌb.dʒɪkt/}}\n']
+
+
+subject.n.06: [' {{enPR|sŭbʹjĕkt}}, {{IPA|en|/ˈsʌb.dʒɛkt/}}\n', ' {{a|RP}} {{IPA|en|/ˈsʌb.dʒɪkt/}}\n']
+
+
+subjugate.v.02:  [‘{{enPR|səb-jĕktʹ}}, {{IPA|en|/səbˈdʒɛkt/|/sʌbˈdʒɛkt/}}’]
+
+
+topic.n.02: [' {{enPR|sŭbʹjĕkt}}, {{IPA|en|/ˈsʌb.dʒɛkt/}}\n', ' {{a|RP}} {{IPA|en|/ˈsʌb.dʒɪkt/}}\n']
+
+
+national.n.01: [' {{enPR|sŭbʹjĕkt}}, {{IPA|en|/ˈsʌb.dʒɛkt/}}\n', ' {{lb|en|also}}  {{a|RP}} {{IPA|en|/ˈsʌb.dʒɪkt/}}\n']
+
+
+discipline.n.01: [' {{enPR|sŭbʹjĕkt}}, {{IPA|en|/ˈsʌb.dʒɛkt/}}\n', ' {{lb|en|also}}  {{a|RP}} {{IPA|en|/ˈsʌb.dʒɪkt/}}\n']
+
+
+subject.n.08: [' {{enPR|sŭbʹjĕkt}}, {{IPA|en|/ˈsʌb.dʒɛkt/}}\n', ' {{lb|en|also}}  {{a|RP}} {{IPA|en|/ˈsʌb.dʒɪkt/}}\n']
+
+
+subject.s.02: [' {{enPR|sŭbʹjĕkt}}, {{IPA|en|/ˈsʌb.dʒɛkt/}}\n', ' {{lb|en|also}}  {{a|RP}} {{IPA|en|/ˈsʌb.dʒɪkt/}}\n']
+
+
+subject.s.03: [' {{enPR|sŭbʹjĕkt}}, {{IPA|en|/ˈsʌb.dʒɛkt/}}\n', ' {{a|RP}} {{IPA|en|/ˈsʌb.dʒɪkt/}}\n']
+
+

@@ -1,0 +1,5 @@
+		pos : verb
+		senses : [' {{lb|en|transitive}} To cover, fill, or affect with lead\n', ' {{lb|en|transitive|printing|historical}} To place leads between the lines of.\n']
+		examples : [(' {{lb|en|transitive}} To cover, fill, or affect with lead\n', "{{ux|en|continuous firing '''leads''' the grooves of a rifle.}}\n"), (' {{lb|en|transitive|printing|historical}} To place leads between the lines of.\n', "{{ux|en|to '''lead''' a page}}\n"), (' {{lb|en|transitive|printing|historical}} To place leads between the lines of.\n', "{{ux|en|'''leaded''' matter}}\n")]
+		pronunciation : [' {{enPR|lĕd}}, {{IPA|en|/lɛd/}}\n']
+	 [' {{enPR|lĕd}}, {{IPA|en|/lɛd/}}\n']

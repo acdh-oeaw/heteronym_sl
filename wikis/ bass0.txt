@@ -1,0 +1,6 @@
+		pos : noun
+		plural : ['bass', 'basses', 'bass']
+		senses : [' The [[perch]]; any of various marine and freshwater fish resembling the perch, all within the order of [[Perciformes]].\n']
+		examples : []
+		pronunciation : [' {{enPR|băs}}, {{IPA|en|/bæs/}}\n']
+	 [' {{enPR|băs}}, {{IPA|en|/bæs/}}\n']

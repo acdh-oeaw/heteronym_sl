@@ -1,0 +1,6 @@
+		pos : noun
+		plural : ['closes']
+		senses : [' An [[end]] or [[conclusion]].\n', ' The manner of shutting; the union of parts; junction.\n', ' A [[grapple]] in [[wrestling]].\n', ' {{lb|en|music}} The conclusion of a [[strain]] of [[music]]; [[cadence]].\n', ' {{lb|en|music}} A [[double]] [[bar]] marking the end.\n', ' {{lb|en|aviation|travel}} The time when checkin staff will no longer accept passengers for a flight. \n']
+		examples : [(' An [[end]] or [[conclusion]].\n', "''We owe them our thanks for bringing the project to a successful '''close'''.''\n"), (' An [[end]] or [[conclusion]].\n', "His long and troubled life was drawing to a '''close'''.}}\n"), (' A [[grapple]] in [[wrestling]].\n', '{{rfquotek|en|Francis Bacon}}\n')]
+		pronunciation : [' {{a|RP}} {{enPR|klōz}}, {{IPA|en|/kləʊz/}}\n', ' {{a|GA}} {{enPR|klōz}}, {{IPA|en|/kloʊz/}}\n']
+	 [' {{a|RP}} {{enPR|klōz}}, {{IPA|en|/kləʊz/}}\n', ' {{a|GA}} {{enPR|klōz}}, {{IPA|en|/kloʊz/}}\n']

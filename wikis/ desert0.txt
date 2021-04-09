@@ -1,0 +1,6 @@
+		pos : noun
+		plural : ['deserts']
+		senses : [' A [[barren]] area of land or [[desolate]] [[terrain]], especially one with little water or [[vegetation]]; a [[wasteland]].\n', ' {{lb|en|figuratively}} Any barren place or situation.\n']
+		examples : [(' A [[barren]] area of land or [[desolate]] [[terrain]], especially one with little water or [[vegetation]]; a [[wasteland]].\n', "Not thus the land appear'd in ages past, / A dreary '''desert''' and a gloomy waste.}}\n"), (' A [[barren]] area of land or [[desolate]] [[terrain]], especially one with little water or [[vegetation]]; a [[wasteland]].\n', "The '''desert''' storm was riding in its strength; the travellers lay beneath the mastery of the fell simoom. Whirling wreaths and columns of burning wind, rushed around and over them.\n"), (' {{lb|en|figuratively}} Any barren place or situation.\n', "text=By contrast, the WR route is an economic '''desert''' between [[Newbury]] and [[Taunton]].}}\n")]
+		pronunciation : [' {{a|RP}} {{IPA|en|/ˈdɛzət/}}\n', " {{a|GA}} {{enPR|dĕ'zə(r)t}}, {{IPA|en|/ˈdɛzɚt/}}\n"]
+	 [' {{a|RP}} {{IPA|en|/ˈdɛzət/}}\n', " {{a|GA}} {{enPR|dĕ'zə(r)t}}, {{IPA|en|/ˈdɛzɚt/}}\n"]

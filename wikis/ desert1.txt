@@ -1,0 +1,6 @@
+		pos : noun
+		plural : ['deserts']
+		senses : [' {{senseid|en|deserved}}{{lb|en|usually|in the plural}} That which is [[deserve]]d or [[merit|merited]]; a [[just]] [[punishment]] or [[reward]]\n']
+		examples : []
+		pronunciation : [' {{a|RP}} {{IPA|en|/dɪˈzɜːt/}}\n', ' {{a|GA}} {{IPA|en|/dɪˈzɝt/|/dəˈzɝt/}}\n']
+	 [' {{a|RP}} {{IPA|en|/dɪˈzɜːt/}}\n', ' {{a|GA}} {{IPA|en|/dɪˈzɝt/|/dəˈzɝt/}}\n']

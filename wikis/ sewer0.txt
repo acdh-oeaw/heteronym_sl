@@ -1,0 +1,6 @@
+		pos : noun
+		plural : ['sewers']
+		senses : [' {{lb|en|now|_|historical}} A [[servant]] attending at a meal who is responsible for seating arrangements, serving dishes, etc.\n']
+		examples : []
+		pronunciation : [' {{IPA|en|/ˈsjuːə/}}\n']
+	 [' {{IPA|en|/ˈsjuːə/}}\n']

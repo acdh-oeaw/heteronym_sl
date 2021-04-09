@@ -1,0 +1,6 @@
+		pos : noun
+		plural : ['mares']
+		senses : [' {{lb|en|obsolete|or|historical}} A type of evil [[spirit]] formerly thought to sit on the chest of a sleeping person; also, the feeling of suffocation felt during sleep, attributed to such a spirit.\n', ' {{lb|en|UK|colloquial}} ({{clipping of|en|nightmare|nodot=1}}) A [[nightmare]]; a frustrating or terrible experience.\n']
+		examples : [(' {{lb|en|UK|colloquial}} ({{clipping of|en|nightmare|nodot=1}}) A [[nightmare]]; a frustrating or terrible experience.\n', "''I'm having a complete '''mare''' today.''\n")]
+		pronunciation : [' {{a|British}} {{IPA|en|/mɛə/}}\n', ' {{a|US}} {{IPA|en|/ˈmɛ(ə)ɹ/}}\n', ' {{a|US}} {{IPA|en|/ˈmɛ(ə)ɹ/}}\n', ' {{a|US}} {{IPA|en|/ˈmɛ(ə)ɹ/}}\n']
+	 [' {{a|British}} {{IPA|en|/mɛə/}}\n', ' {{a|US}} {{IPA|en|/ˈmɛ(ə)ɹ/}}\n', ' {{a|US}} {{IPA|en|/ˈmɛ(ə)ɹ/}}\n', ' {{a|US}} {{IPA|en|/ˈmɛ(ə)ɹ/}}\n']

@@ -1,0 +1,5 @@
+		pos : verb
+		senses : [' {{lb|en|archaic|or|obsolete|regional}} To [[live]], [[remain]].\n', ' {{lb|en|archaic|or|obsolete|regional}} To be accustomed to do something.\n\n']
+		examples : []
+		pronunciation : [' {{a|UK}} {{IPA|en|/wɒn/}}\n']
+	 [' {{a|UK}} {{IPA|en|/wɒn/}}\n']

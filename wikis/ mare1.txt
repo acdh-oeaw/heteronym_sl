@@ -1,0 +1,6 @@
+		pos : noun
+		plural : ['mares']
+		senses : [' An adult [[female]] [[horse]].\n', ' {{lb|en|UK|pejorative|slang}} A [[foolish]] [[woman]].\n']
+		examples : [(' An adult [[female]] [[horse]].\n', "But then I had the [massive] flintlock by me for protection. ¶{{...The linen-press and a chest on the top of it formed, however, a very good gun-carriage; and, thus mounted, aim could be taken out of the window at the old '''mare''' feeding in the meadow below by the brook, and a 'bead' could be drawn upon Molly, the dairymaid, kissing the fogger behind the hedge,{{nb....\n"), (' {{lb|en|UK|pejorative|slang}} A [[foolish]] [[woman]].\n', "The silly '''mare''' phoned your mother, talking about applying for a mortgage, and we don't want that, do we?\n")]
+		pronunciation : [' {{a|RP}} {{IPA|en|/mɛə/}}\n', ' {{a|GA}} {{IPA|en|/mɛəɹ/}}\n']
+	 [' {{a|RP}} {{IPA|en|/mɛə/}}\n', ' {{a|GA}} {{IPA|en|/mɛəɹ/}}\n']

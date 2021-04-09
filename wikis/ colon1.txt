@@ -1,0 +1,6 @@
+		pos : noun
+		plural : ['colons', 'cola']
+		senses : [' The [[punctuation]] [[mark]] "\'\'\'{{unsupported|:}}\'\'\'".\n', ' {{lb|en|rare}} The [[triangular colon]] (especially in context of not being able to type the actual triangular colon).\n', ' {{lb|en|rhetoric}} A [[rhetorical]] [[figure]] consisting of a [[clause]] which is [[grammatically]], but not [[logically]], complete.\n', ' {{lb|en|palaeography}} A [[clause]] or group of clauses written as a line, or taken as a standard of measure in ancient manuscripts or texts.\n']
+		examples : []
+		pronunciation : [' {{a|UK}} {{IPA|en|/ˈkəʊ.lən/|/ˈkəʊ.lɒn/}}\n', " {{a|US}} {{enPR|kō'lən}}, {{IPA|en|/ˈkoʊ.lən/}}\n", " {{a|US}} {{enPR|kō'lən}}, {{IPA|en|/ˈkoʊ.lən/}}\n", " {{a|US}} {{enPR|kō'lən}}, {{IPA|en|/ˈkoʊ.lən/}}\n"]
+	 [' {{a|UK}} {{IPA|en|/ˈkəʊ.lən/|/ˈkəʊ.lɒn/}}\n', " {{a|US}} {{enPR|kō'lən}}, {{IPA|en|/ˈkoʊ.lən/}}\n", " {{a|US}} {{enPR|kō'lən}}, {{IPA|en|/ˈkoʊ.lən/}}\n", " {{a|US}} {{enPR|kō'lən}}, {{IPA|en|/ˈkoʊ.lən/}}\n"]

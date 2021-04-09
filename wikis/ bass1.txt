@@ -1,0 +1,5 @@
+		pos : verb
+		senses : [' To [[sound]] in a deep tone.\n']
+		examples : []
+		pronunciation : [' {{enPR|bās}}, {{IPA|en|/beɪs/}}\n']
+	 [' {{enPR|bās}}, {{IPA|en|/beɪs/}}\n']

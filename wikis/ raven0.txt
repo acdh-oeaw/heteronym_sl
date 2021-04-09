@@ -1,0 +1,6 @@
+		pos : noun
+		plural : ['ravens']
+		senses : [' [[rapine|Rapine]]; [[rapacity]].\n', ' [[prey|Prey]]; [[plunder]]; food obtained by [[violence]].\n']
+		examples : []
+		pronunciation : [' {{enPR|răvʹən}}, {{IPA|en|/ˈɹævən/}}\n']
+	 [' {{enPR|răvʹən}}, {{IPA|en|/ˈɹævən/}}\n']

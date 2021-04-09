@@ -1,0 +1,5 @@
+		pos : verb
+		senses : [' {{en-past of|win}}\n<!--do not add translations here; add them to the conjugations of the translations of the infinitive "win"-->\n']
+		examples : []
+		pronunciation : [' {{enPR|wŭn}}, {{IPA|en|/wʌn/}}\n']
+	 [' {{enPR|wŭn}}, {{IPA|en|/wʌn/}}\n']
